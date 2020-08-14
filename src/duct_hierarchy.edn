@@ -1,0 +1,1 @@
+{:duct.sql.gungnir/make-datasource! [:duct.database/sql]}
