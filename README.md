@@ -6,8 +6,11 @@
 
 `project.clj`
 
+### Version
+[Latest SNAPSHOT versions](http://repo.clojars.org/kwrooijen/duct-gungnir/0.0.1-SNAPSHOT/)
+
 ```clojure
-:dependencies [[kwrooijen/duct-gungnir "0.0.1-SNAPSHOT"]]
+:dependencies [[kwrooijen/duct-gungnir "0.0.1-xxxxxxxx.yyyyyy-z"]]
 ```
 
 `config.edn`
