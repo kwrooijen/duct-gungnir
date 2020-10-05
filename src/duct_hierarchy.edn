@@ -1,2 +1,3 @@
-{:duct.sql.gungnir/make-datasource! [:duct.database/sql]
+{:duct.sql.gungnir/make-datasource! [:duct.database/sql :duct/daemon]
+ :duct.sql.gungnir/set-datasource! [:duct.database/sql :duct/daemon]
  :duct.gungnir/model [:duct/daemon]}
